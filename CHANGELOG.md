@@ -1,5 +1,5 @@
 # Changelog
-**Author: Joseph Manu**
+**Author: Joseph Oduro Manu**
 
 All notable changes to this project will be documented in this file.
 
